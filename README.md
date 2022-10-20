@@ -7,4 +7,4 @@ yarn install
 yarn dev
 ```
 
-Para instalar y ejecutar el proyecto.
+Para instalar y ejecutar el proyecto.# introduccionTS
